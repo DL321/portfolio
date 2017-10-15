@@ -3,11 +3,11 @@ p {
 	font-style: normal;
 	font-size: 45px;
 }
-.bgimage {
+body {
 	background-image: url("https://github.com/DL321/portfolio/blob/gh-pages/IMG_0132.JPG?raw=true");
 	opacity: 0.5;
 }
-body {
+article {
 	color: #14A883;
 }
 h1{
