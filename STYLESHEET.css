@@ -5,6 +5,7 @@ p {
 }
 body {
 	background-image: url("https://github.com/DL321/portfolio/blob/gh-pages/IMG_0132.JPG?raw=true");
+	opacity: 0.75;
 }
 article {
 	color: #14A883;
